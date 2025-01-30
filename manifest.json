@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "Gamer Style Chrome Theme",
+  "theme": {
+    "colors": {
+      "frame": [20, 20, 20],
+      "toolbar": [30, 30, 30],
+      "tab_text": [255, 255, 255],  
+      "tab_background_text": [170, 170, 170],
+      "bookmark_text": [255, 0, 0], 
+      "ntp_background": [10, 10, 20],
+      "ntp_text": [255, 255, 255],
+      "tab_selected": [0, 255, 0], 
+      "tab_hover": [0, 255, 255]  
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
